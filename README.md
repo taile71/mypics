@@ -8,6 +8,8 @@ My objective is to use the app to build a simple docker image and run it with mi
 - Folder src contains the JS files
 - Build the image using the Dockerfile 
 - File webapp.yaml for building a local minikube cluster
+- File webapp-aws for setting Kubernetes environment on AWS to run mypics
 
 
 
+- More coming...
