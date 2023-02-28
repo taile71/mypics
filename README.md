@@ -17,7 +17,7 @@ My objective is to use the app to build a simple docker image and run it with mi
 - When a cluster is up, copy the webapp-aws.yaml to the boostrap and apply it using the kubectl tool.
 - If the deployment and service created successfully, use the AWS ELB DNS link to access the Mypics.
 
-Application running on AWS with Kubernetes setup with kops with route 53 hostzone alias record created for the ELB:
+Application running on AWS with Kubernetes setup using kops with route 53 hostzone alias record created for the ELB:
 
 <img src="./images/dolphins.png" style="zoom: 80%;" />
 
